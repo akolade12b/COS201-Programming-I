@@ -2,13 +2,12 @@
 
 ## Student Information
 
-- **Name:** [Enter your full name]
-- **Matriculation Number:** [Enter your matriculation number]
+- **Name:** Ajibola Akolade Maleek
+- **Matriculation Number:** 25/16404
 - **Programme:** Computer Science (CSC)
 - **Course:** COS 201 — Computer Programming I
 - **Weeks covered:** 1, 2 and 3
 
-> Replace the two placeholders above with your real details before submitting.
 
 ---
 
