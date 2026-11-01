@@ -1,8 +1,8 @@
 # COS 201 — Computer Programming I
 ## Week 1 Assignments (written answers)
 
-- **Name:** [Enter your full name]
-- **Matriculation Number:** [Enter your matriculation number]
+- **Name:** Ajibola AKolade
+- **Matriculation Number:** 25/16404
 - **Programme:** Computer Science (CSC)
 
 ---
