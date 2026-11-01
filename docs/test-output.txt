@@ -1,0 +1,75 @@
+COS 201 - Test Run Output
+Generated: 2026-11-01 16:27 UTC
+java version "21.0.12.1" 2026-08-18 LTS
+
+===== Week 1: FirstProgram =====
+$ java FirstProgram
+Course: COS 201 - Computer Programming I
+Programme: Computer Science
+Reason 1: Programming turns algorithms and data structures into working solutions.
+Reason 2: Programming supports automation and computational problem-solving.
+Reason 3: Programming builds the foundation for software, AI and database systems.
+My goal: I want to design and build simple, reliable applications in Java.
+
+===== Week 2: HelloWorld =====
+$ java HelloWorld
+Hello, World!
+Welcome to COS 201.
+I am learning Java programming.
+
+===== Week 2: PrintExample =====
+$ java PrintExample
+COS 201
+Java
+
+===== Week 2: ErrorExample =====
+$ java ErrorExample
+Learning Java
+
+===== Week 2: StudentProfile =====
+$ java StudentProfile
+COURSE: COS 201
+COURSE TITLE: Computer Programming I
+PROGRAMME: Computer Science
+WEEK: 2
+TOPIC: Development Environment and Java
+GOAL: To learn how to write Java programs.
+
+===== Week 3: SimpleCalculator (20, 4) =====
+$ java SimpleCalculator   [input: 20, 4]
+Enter the first number: Enter the second number: Sum: 24.00
+Difference: 16.00
+Product: 80.00
+Quotient: 5.00
+
+===== Week 3: SimpleCalculator (20, 0) =====
+$ java SimpleCalculator   [input: 20, 0]
+Enter the first number: Enter the second number: Sum: 20.00
+Difference: 20.00
+Product: 0.00
+Division is undefined for a zero divisor.
+
+===== Week 3: AverageCalculator (Amina Bello, 70, 80, 90) =====
+$ java AverageCalculator   [input: Amina Bello, 70, 80, 90]
+Enter student name: Enter score for Course 1: Enter score for Course 2: Enter score for Course 3: 
+--- STUDENT RESULT ---
+Student: Amina Bello
+Total: 240.00
+Average: 80.00
+
+===== Week 3: AverageCalculator invalid score (Test, 120, 50, 60) =====
+$ java AverageCalculator   [input: Test, 120, 50, 60]
+Enter student name: Enter score for Course 1: Enter score for Course 2: Enter score for Course 3: Invalid score: every score must be between 0 and 100.
+
+===== Week 3: ItemCost (Exercise Book, 3, 1500) =====
+$ java ItemCost   [input: Exercise Book, 3, 1500]
+Enter item name: Enter quantity: Enter unit price: 
+--- PURCHASE SUMMARY ---
+Item: Exercise Book
+Quantity: 3
+Unit price: 1500.00
+Total cost: 4500.00
+
+===== Week 3: CalculationError =====
+$ java CalculationError
+2.5
